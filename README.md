@@ -1,6 +1,6 @@
 TRIANGLE TRACKER
 #### {An application that helps you know different types of triangles}, {22/03/1998}
-#### By **{just me}**
+#### By **{SHYLA_B}**
 ## Description
 {Triangle tracker is a school project. It's purpose is to differentiate the differernt types of triangles by just keying the dimensions and then the application will tell you the type of triangle you're looking for.}
 ## Setup/Installation Requirements
@@ -13,9 +13,9 @@ TRIANGLE TRACKER
 ## Technologies Used
 {i used 3 languages when creating this application. JavaScript HTML and CSS.}
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{if you encounter any issues please contact me via +254 740902027 or shheilabernicew@gmail.com }
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
-  
+*{ {GPL@Shyla.} Copyright (c) {2019} {Shyla_B}
+}*
 
+ 
