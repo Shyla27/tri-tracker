@@ -13,7 +13,7 @@ TRIANGLE TRACKER
 ## Technologies Used
 {i used 3 languages when creating this application. JavaScript HTML and CSS.}
 ## Support and contact details
-{if you encounter any issues please contact me via +254 740902027 or shheilabernicew@gmail.com }
+{if you encounter any issues please contact me via +254 740902027 or sheilabernicew@gmail.com }
 ### License
 *{ {GPL@Shyla.} Copyright (c) {2019} {Shyla_B}
 }*
